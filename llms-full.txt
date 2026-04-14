@@ -6,8 +6,540 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Stop Wage Garnishment -- Bankruptcy & Legal Options [2026]
+## Bank Account Levies vs. Wage Garnishment
+Source: https://stopgarnishment.org/bank-levy.html
+
+Bank Account Levies vs. Wage Garnishment
+
+Creditors can freeze and seize money in your bank account through a bank levy - a different process than wage garnishme
+
+Home›Bank Account Levies vs. Wage Garnishment | stopgarnishment.org›Bank Account Levies vs. Wage Garnishment
+
+← Home
+
+What Is a Bank Levy?
+
+A bank levy (also called a bank garnishment or attachment) is when a creditor obtains a court order directing your bank to freeze funds in your account and turn them over to the creditor. Unlike wage garnishment, which takes a percentage of each paycheck over time, a bank levy can seize everything in your account up to the judgment amount in a single action.
+
+Bank levies are particularly devastating because they happen without warning. You may discover the levy only when your debit card is declined or checks bounce. The bank freezes your account immediately upon receiving the levy order, then typically holds the funds for a waiting period (often 21 days) before releasing them to the creditor.
+
+Protecting Your Bank Account
+
+Federal benefits (Social Security, SSI, VA) deposited by direct deposit are automatically protected for two months under the 2013 federal banking regulation. Banks must review your account for protected federal deposits and exclude them from the levy automatically.
+
+For other funds, you must file an exemption claim with the court. State exemptions vary widely - some states protect a specific dollar amount, others protect certain types of funds. Act quickly, as the waiting period before funds are released to the creditor is limited. For a complete guide, visit bankaccountlevy.com.
+
+Bank Levy vs. Wage Garnishment Compared
+
+Wage garnishment takes a portion of each paycheck on an ongoing basis. A bank levy seizes a lump sum from your account. Wage garnishment is limited to 25% of disposable earnings, while a bank levy can take the entire account balance (minus exempt funds). Both require a court judgment first (for most debts), and both can be stopped by filing bankruptcy.
+
+Creditors often use both tools simultaneously - garnishing wages and levying accounts. If you are facing both, bankruptcy provides the broadest protection by stopping all collection activity through the automatic stay.
+
+How Bankruptcy Stops Bank Levies
+
+Filing bankruptcy immediately stops pending bank levies through the automatic stay. If the bank has already frozen your funds but has not yet released them to the creditor, you may be able to recover those funds. If the levy was executed within 90 days before filing, the funds may be recoverable as a preference payment under 11 U.S.C. 547.
+
+Frequently Asked Questions
+
+What is a bank levy?
+
+A court order directing your bank to freeze and turn over funds in your account to a creditor. Unlike wage garnishment, it can seize your entire account balance in one action.
+
+Can they take my Social Security from my bank account?
+
+No. Federal benefits deposited by direct deposit are automatically protected for two months under federal banking regulations.
+
+How do I stop a bank levy?
+
+File an exemption claim with the court immediately. If you have multiple debts, filing bankruptcy stops all levies through the automatic stay.
+
+Can I open a new bank account to avoid a levy?
+
+Opening a new account does not eliminate the debt. The creditor can obtain new levy orders against any account they discover. Bankruptcy is the only way to permanently stop levies by eliminating the underlying debt.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and consumer protection statutes. Educational content, not legal advice.
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Section 727(a)(8) Discharge Waiting Period -- 727a8.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener
+Bank Levy Guide
+Automatic Stay
+Open Bankruptcy Project
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## Bankruptcy Stops Garnishment - How the Automatic Stay Works
+Source: https://stopgarnishment.org/bankruptcy-and-garnishment.html
+
+Bankruptcy Stops Garnishment
+
+How the Automatic Stay Protects Your Paycheck
+
+Home›Bankruptcy Stops Garnishment - How the Automatic Stay Works | stopgarnishment.org›Bankruptcy Stops Garnishment
+
+← Stop Garnishment Home
+
+The Automatic Stay - Immediate Protection
+
+The moment you file a bankruptcy petition with the court, a powerful federal court order called the "automatic stay" takes effect under 11 U.S.C. 362. This order immediately prohibits all creditors from continuing any collection activity, including wage garnishment. Your employer must stop withholding garnished wages as soon as they receive notice of the bankruptcy filing.
+
+This protection applies whether you file Chapter 7 or Chapter 13. The stay is automatic - you do not need to ask the court for it, and the creditor does not get a chance to object before it takes effect. For more on the automatic stay, visit automaticstay.org.
+
+Chapter 7 vs. Chapter 13 for Garnishment
+
+Both chapters stop garnishment immediately, but they work differently long-term. Chapter 7 eliminates most unsecured debts (credit cards, medical bills, personal loans) within about 3-4 months. If the garnishment was for one of these debts, it is permanently eliminated after discharge. Chapter 13 reorganizes your debts into a manageable 3-5 year payment plan. The garnishment stops immediately and is replaced by a single monthly plan payment.
+
+Chapter 13 is often the better choice if you need to catch up on mortgage arrears, car payments, or tax debts while keeping the garnishment stopped. Chapter 7 is typically better if you just need to eliminate the underlying debt entirely. Compare the chapters at chapter7vs13.org.
+
+Recovering Garnished Wages
+
+Under certain circumstances, wages garnished before you filed bankruptcy may be recoverable. Section 547 of the Bankruptcy Code allows the trustee (or debtor) to recover "preference payments" made to creditors within 90 days before filing. If a significant amount was garnished from your wages in the 90 days before your bankruptcy filing, those funds may be clawed back and returned to the bankruptcy estate.
+
+This is one reason why timing matters when filing bankruptcy to stop garnishment. If you have been garnished for several months, filing sooner rather than later not only stops future garnishment but may also allow recovery of recently garnished funds.
+
+What Garnishment Types Bankruptcy Cannot Stop
+
+The automatic stay does not stop all types of garnishment. Exceptions include:
+
+Child support and alimony: Domestic support obligations continue during bankruptcy
+
+Criminal restitution: Court-ordered restitution in criminal cases is not stayed
+
+Tax levies in some circumstances: The IRS may continue certain tax collection in some cases
+
+For debts that bankruptcy cannot stop, you may need to negotiate directly with the creditor or seek a court modification of the support or restitution order.
+
+Emergency Filing to Stop Garnishment
+
+If garnishment is happening right now and you need it stopped immediately, a "bare bones" or emergency bankruptcy filing may be appropriate. This involves filing the petition with minimal paperwork to trigger the automatic stay, then completing the remaining schedules within 14 days. This is a legitimate legal strategy used specifically when creditors are about to seize assets or wages.
+
+Learn more about emergency filings at howtofilebankruptcy.org.
+
+Frequently Asked Questions
+
+How fast does bankruptcy stop garnishment?
+
+The automatic stay takes effect immediately when the petition is filed. Your employer typically receives notice within 1-3 business days.
+
+Can I get back garnished wages?
+
+Wages garnished within 90 days before filing may be recoverable as a preference payment under 11 U.S.C. 547.
+
+Does bankruptcy stop child support garnishment?
+
+No. Domestic support obligations are excepted from the automatic stay under 11 U.S.C. 362(b)(2).
+
+Which chapter is better for stopping garnishment?
+
+Both stop garnishment immediately. Chapter 7 eliminates the underlying debt in 3-4 months. Chapter 13 restructures it over 3-5 years.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on 11 U.S.C. 362 and 547. Educational content, not legal advice.
+
+People Also Ask
+
+How do I stop wage garnishment immediately?
+
+Does filing bankruptcy stop wage garnishment?
+
+What income is exempt from garnishment?
+
+View all questions →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Relief from Automatic Stay -- relieffromstay.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener Automatic Stay Open Bankruptcy Project Wage Garnishment Guide
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## Your Rights at Work During Garnishment
+Source: https://stopgarnishment.org/employer-rights.html
+
+Your Rights at Work During Garnishment
+
+Federal law prohibits employers from firing you for a single garnishment - know your workplace protections
+
+Home›Your Rights at Work During Garnishment | stopgarnishment.org›Your Rights at Work During Garnishment
+
+← Home
+
+Employment Protection Under Federal Law
+
+Title III of the Consumer Credit Protection Act (15 U.S.C. 1674) prohibits employers from terminating an employee because of a single garnishment for any single indebtedness. This means your employer cannot fire you simply because one creditor has garnished your wages. Violation of this protection is a federal crime.
+
+However, this protection has limits. Federal law only protects against termination for a single garnishment. If you have two or more garnishments from different creditors, the federal protection may not apply. Some states provide broader protection, prohibiting termination for multiple garnishments as well.
+
+Garnishment and Job Applications
+
+While federal law protects current employees from termination for a single garnishment, it does not address hiring decisions. Some employers run credit checks on job applicants and may consider garnishment history as a negative factor. If garnishment is affecting your ability to find employment, eliminating the underlying debt through bankruptcy can help.
+
+Under the Fair Credit Reporting Act, employers must get your written permission before pulling your credit report and must provide you with a copy and a chance to dispute it before making an adverse decision based on the report.
+
+What Your Employer Must Do
+
+When your employer receives a garnishment order, they are legally required to comply. The employer must begin withholding the specified amount from your paycheck and remitting it to the garnishing creditor. Employers cannot charge you a fee for processing a garnishment in most states.
+
+Your employer also has a duty to stop garnishment when they receive a bankruptcy filing notice, a satisfaction of judgment, or a court order releasing the garnishment. If your employer continues garnishing after receiving proper notice, they may be liable for the improperly withheld amounts.
+
+Reducing the Impact
+
+If garnishment is causing severe financial hardship, you may be able to file a motion with the court to reduce the garnishment amount. Courts can modify garnishment orders when the debtor demonstrates that the current amount causes undue hardship - inability to pay rent, utilities, or other basic necessities.
+
+Alternatively, filing for bankruptcy stops garnishment entirely and can eliminate the underlying debt. Learn about your options at howmuchdoesbankruptcycost.com.
+
+Frequently Asked Questions
+
+Can my employer fire me for wage garnishment?
+
+Federal law prohibits termination for a single garnishment. However, if you have multiple garnishments from different creditors, the federal protection may not apply. Some states offer broader protection.
+
+Can an employer refuse to hire me because of garnishment?
+
+Federal law does not specifically prohibit this. Employers can run credit checks with your permission and may consider garnishment history. Bankruptcy can help by eliminating the underlying debts.
+
+Can my employer charge me for processing garnishment?
+
+Most states prohibit employers from charging employees for garnishment processing costs.
+
+How do I ask the court to reduce my garnishment?
+
+File a motion for reduction or modification with the court that issued the garnishment order, demonstrating financial hardship.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and consumer protection statutes. Educational content, not legal advice.
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener
+Open Bankruptcy Project
+Wage Garnishment
+Chapter 7 vs 13
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## Income Protected from Garnishment - Federal and State Exemptions
+Source: https://stopgarnishment.org/exempt-income.html
+
+Income Protected from Garnishment
+
+Federal and State Exemptions That Shield Your Money
+
+Home›Income Protected from Garnishment - Federal and State Exemptions | stopgarnishment.org›Income Protected from Garnishment
+
+← Stop Garnishment Home
+
+Federally Protected Income
+
+Federal law categorically protects several income types from garnishment by private creditors. Social Security benefits, Supplemental Security Income (SSI), Veterans Administration benefits, federal civilian and military retirement pay, Railroad Retirement benefits, and federal student financial aid cannot be taken by credit card companies, medical bill collectors, or other private creditors.
+
+These protections exist because Congress determined these benefits are essential to the survival of recipients who are typically elderly, disabled, or veterans. The protection follows the money - when these benefits are deposited into a bank account, they remain exempt for at least two months under federal banking regulations.
+
+Exceptions to Federal Protection
+
+While private creditors cannot touch these benefits, the federal government has broader powers. Social Security can be garnished for federal tax debts (up to 15%), child support and alimony, non-tax debts owed to other federal agencies, and certain crime victim restitution orders. SSI, however, is completely exempt from all garnishment, including by the government.
+
+State tax agencies also have varying powers to garnish federal benefits depending on the state. Check with your state's consumer protection office for specifics.
+
+State Exemptions
+
+Many states provide additional protections beyond federal law. Some states exempt workers' compensation benefits, unemployment insurance, state retirement benefits, and disability insurance from garnishment. Several states protect "head of household" earners, sometimes shielding up to 100% of wages from garnishment for consumer debts.
+
+State exemption laws vary dramatically. A head of household exemption that protects all wages in Florida may not exist in your state. Check your specific state exemptions at bankruptcyexemptionsbystate.com.
+
+Claiming Your Exemption
+
+With the exception of the automatic protection for federal benefits in bank accounts, you must actively claim most exemptions. When you receive a garnishment notice, you typically have a limited window (10-30 days depending on your state) to file an exemption claim with the court that issued the garnishment order.
+
+To claim the exemption, you file a form (sometimes called a "Claim of Exemption" or "Exemption Affidavit") with the court, identifying which income or funds are exempt and providing documentation. If you miss the deadline, you may lose the right to claim the exemption for that specific garnishment action.
+
+When Exemptions Are Not Enough
+
+If your income is partially exempt but you are still losing too much to garnishment, or if you are facing garnishment on multiple debts, bankruptcy provides the most comprehensive relief. The automatic stay immediately stops all garnishment, and the discharge permanently eliminates the underlying debts.
+
+Frequently Asked Questions
+
+Can Social Security be garnished?
+
+Not by private creditors. The federal government can garnish Social Security for taxes, child support, and certain government debts. SSI is completely exempt from all garnishment.
+
+What income is completely exempt from garnishment?
+
+Social Security, SSI, VA benefits, federal retirement, Railroad Retirement, and federal student aid are all protected from private creditor garnishment.
+
+Does exempt income stay protected in my bank account?
+
+Federal benefits deposited by direct deposit are automatically protected for two months. After that, they may lose protection as they commingle with other funds.
+
+Do I need to claim my exemption?
+
+For bank account levies on federal benefits, the bank must automatically protect two months of direct deposits. For other situations, you must file an exemption claim with the court within the deadline on your garnishment notice.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on the Consumer Credit Protection Act and federal banking regulations. Educational content, not legal advice.
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
+People Also Ask
+
+How do I stop wage garnishment immediately?
+
+Does filing bankruptcy stop wage garnishment?
+
+What income is exempt from garnishment?
+
+View all questions →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Student Loan Forgiveness Programs -- studentloanforgive.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener Automatic Stay Open Bankruptcy Project Wage Garnishment
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## Federal Garnishment Limits - How Much Can They Take
+Source: https://stopgarnishment.org/federal-limits.html
+
+Federal Garnishment Limits
+
+Federal law limits how much creditors can garnish from your wages - usually 25% of disposable earnings
+
+Home›Federal Garnishment Limits - How Much Can They Take | stopgarnishment.org›Federal Garnishment Limits
+
+← Home
+
+The 25% Rule
+
+Under the Consumer Credit Protection Act (CCPA), creditors can garnish the lesser of 25% of your disposable earnings or the amount by which your weekly disposable earnings exceed 30 times the federal minimum wage. "Disposable earnings" means your pay after mandatory deductions like taxes and Social Security - not your gross pay.
+
+At the current federal minimum wage of $7.25 per hour, 30 times that amount is $217.50 per week. If your weekly disposable earnings are $217.50 or less, your wages cannot be garnished at all. If your disposable earnings are between $217.50 and $290.00, only the amount above $217.50 can be taken. Above $290.00, the 25% limit applies.
+
+Different Rules for Different Debts
+
+Not all debts follow the 25% rule. Child support and alimony can take up to 50% of disposable earnings (60% if you are not supporting another spouse or child, and an additional 5% if payments are more than 12 weeks overdue). Federal student loans can take up to 15% through administrative garnishment. Federal tax levies have their own formula based on filing status and dependents, and can sometimes take more than 25%.
+
+State taxes follow state rules, which vary widely. Some states mirror the federal limits, while others allow higher or lower percentages.
+
+State Limits May Be Lower
+
+Some states set garnishment limits lower than the federal maximum. For example, some states cap garnishment at 10-15% of disposable earnings or protect a larger portion of wages. When state and federal limits conflict, the law that results in less garnishment applies.
+
+This means you should always check both your state law and federal law to determine the actual maximum that can be taken from your paycheck. The more protective limit wins.
+
+Multiple Garnishments
+
+If you have multiple creditors seeking garnishment, total garnishment is generally capped at 25% (for non-support debts). A second creditor must wait until the first garnishment is satisfied before their order takes effect. However, support obligations take priority and are calculated separately, which can mean total withholding exceeds 25%.
+
+Frequently Asked Questions
+
+How much can creditors garnish from my wages?
+
+The lesser of 25% of disposable earnings or the amount exceeding 30 times the federal minimum wage per week. Child support can take up to 50-65%.
+
+Can I be garnished below minimum wage?
+
+If your disposable earnings are at or below 30 times the federal minimum wage ($217.50/week), your wages cannot be garnished by private creditors at all.
+
+Do state limits override federal limits?
+
+When state limits are more protective (lower percentage), the state limit applies. The law that results in less garnishment always controls.
+
+Can I have multiple garnishments at once?
+
+Total garnishment for non-support debts is generally capped at 25%. Support obligations are calculated separately and take priority.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and consumer protection statutes. Educational content, not legal advice.
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loan Forgiveness Programs -- studentloanforgive.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener
+Wage Garnishment
+Open Bankruptcy Project
+Bankruptcy Cost
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## How Wage Garnishment Works - The Complete Process
+Source: https://stopgarnishment.org/how-garnishment-works.html
+
+How Wage Garnishment Works
+
+From lawsuit to paycheck deduction - understand every step of the garnishment process so you can fight back
+
+Home›How Wage Garnishment Works - The Complete Process | stopgarnishment.org›How Wage Garnishment Works
+
+← Home
+
+Step 1: The Creditor Gets a Judgment
+
+Before a regular creditor can garnish your wages, they must first sue you and win. The creditor files a lawsuit, you are served with a summons and complaint, and either you lose at trial or a default judgment is entered because you did not respond. This judgment is the legal authorization that allows the creditor to use collection tools like garnishment.
+
+Important exception: the IRS, state tax agencies, and federal student loan servicers can garnish without a court judgment. Child support garnishment is authorized by the family court order itself. For regular debts (credit cards, medical bills, personal loans), the creditor must go through the court first.
+
+Step 2: The Garnishment Order
+
+After obtaining a judgment, the creditor files a separate motion or application for a garnishment order (sometimes called a "writ of garnishment" or "earnings withholding order"). The court issues the order, which is then served on your employer.
+
+You should receive notice of the garnishment order and an opportunity to claim exemptions. The notice period varies by state - some give you as little as 5 days, others up to 30 days. This is your window to claim any exemptions that apply to your income.
+
+Step 3: Employer Withholding
+
+Your employer is legally required to comply with the garnishment order. They must calculate the correct withholding amount (the lesser of 25% of disposable earnings or the amount above 30 times minimum wage), deduct it from each paycheck, and send it to the court or creditor.
+
+The employer continues withholding until the judgment is fully paid, the garnishment is released by court order, or you file for bankruptcy. Some garnishments last for months or years depending on the size of the debt.
+
+How to Fight Back
+
+Your options include claiming exemptions (protected income types), challenging the underlying judgment (if it was entered by default), negotiating with the creditor for a payment plan or settlement, filing a hardship motion to reduce the garnishment amount, or filing for bankruptcy.
+
+The most effective defense depends on your specific situation. If the garnishment is for a dischargeable debt and you qualify, bankruptcy provides the most comprehensive relief by stopping the garnishment and eliminating the debt. Check your eligibility at 1328f.com.
+
+Frequently Asked Questions
+
+Do creditors need a court order to garnish wages?
+
+Most creditors must first sue you, win a judgment, then obtain a garnishment order. Exceptions: IRS, state tax agencies, federal student loans, and child support.
+
+How long does garnishment last?
+
+Until the judgment is fully paid, the court releases the garnishment, or you file for bankruptcy. This can be months or years depending on the debt amount.
+
+Can I settle with the creditor to stop garnishment?
+
+Yes. Many creditors will agree to a payment plan or lump-sum settlement to stop garnishment. Get any agreement in writing before making payments.
+
+What if I was not properly served in the original lawsuit?
+
+If you were not properly served, the judgment may be voidable. File a motion to vacate the default judgment. See defaultjudgment.org for guidance.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and consumer protection statutes. Educational content, not legal advice.
+
+People Also Ask
+
+How do I stop wage garnishment immediately?
+
+Does filing bankruptcy stop wage garnishment?
+
+What income is exempt from garnishment?
+
+View all questions →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Student Loan Forgiveness Programs -- studentloanforgive.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener
+Default Judgment
+Open Bankruptcy Project
+Sued for Debt
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## Stop Wage Garnishment - Bankruptcy & Legal Options [2026]
 Source: https://stopgarnishment.org/
+
+Skip to main content
 
 Stop Wage Garnishment
 
@@ -27,7 +559,7 @@ File a claim of exemption: If your income is exempt or the garnishment causes un
 
 Negotiate: Contact the creditor and propose a payment plan in exchange for releasing the garnishment.
 
-File bankruptcy: The automatic stay stops all garnishment immediately -- often the fastest option. The automatic stay explained.
+File bankruptcy: The automatic stay stops all garnishment immediately - often the fastest option. The automatic stay explained.
 
 Pay the judgment: Once satisfied, the garnishment ends.
 
@@ -128,7 +660,7 @@ ceaseanddesistdebt.com →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -274,6 +806,7 @@ File Without a Lawyer
 Rebuild Credit
 stopgarnishment.org
 ♥ Sponsor
+Rule 9037 PII Scanner
 
 Free bankruptcy education for the public interest. Not legal advice.
 If you need legal help, contact a licensed attorney in your state.
@@ -285,12 +818,246 @@ Terms
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
+Cited by the Federal Rules Committee (26-BK-3)
+
+---
+
+## Garnishment for Self-Employed and Gig Workers
+Source: https://stopgarnishment.org/self-employed.html
+
+Garnishment for Self-Employed and Gig Workers
+
+Traditional wage garnishment does not work for self-employed people - but creditors have other tools
+
+Home›Garnishment for Self-Employed and Gig Workers | stopgarnishment.org›Garnishment for Self-Employed and Gig Workers
+
+← Home
+
+Why Traditional Garnishment Does Not Apply
+
+Wage garnishment only works when you have an employer who can withhold money from your paycheck. If you are self-employed, a freelancer, or a gig worker, there is no employer to serve with a garnishment order. This does not mean you are immune from collection - creditors simply use different tools.
+
+Instead of wage garnishment, creditors pursuing self-employed individuals typically use bank account levies, property liens, and asset seizure. These methods can be even more disruptive than wage garnishment because they can freeze your entire bank account rather than taking a percentage of each paycheck.
+
+Bank Levies and Business Accounts
+
+The most common collection tool against self-employed individuals is the bank levy. A creditor with a judgment can obtain a court order directing your bank to freeze and turn over the funds in your account. If your business and personal funds are in the same account, the entire balance may be at risk.
+
+Separating business and personal accounts provides some protection, as the creditor may only have a judgment against you personally. However, if you are a sole proprietor, there is no legal separation between you and your business. For LLCs and corporations, the distinction is stronger, but creditors may still try to reach business assets. Learn more at bankaccountlevy.com.
+
+1099 Garnishment and Account Receivable Seizure
+
+Some creditors attempt to garnish payments owed to you by your clients. This is sometimes called "account receivable garnishment" or "non-earnings garnishment." The creditor serves a garnishment order on your client, directing them to pay the creditor instead of you.
+
+This is a particularly aggressive tactic that can damage your business relationships. If a client receives a garnishment order related to your personal debt, they may decide to stop working with you entirely.
+
+Bankruptcy Protection for the Self-Employed
+
+Bankruptcy is often the most effective solution for self-employed individuals facing aggressive collection. The automatic stay stops all collection activity - bank levies, property liens, and account receivable garnishment. Chapter 13 can restructure debts while you continue operating your business.
+
+Self-employed individuals may also qualify for Chapter 7 if their income after business expenses falls below the state median. The means test determines eligibility.
+
+Frequently Asked Questions
+
+Can self-employed people have wages garnished?
+
+Traditional wage garnishment does not apply because there is no employer. However, creditors can use bank levies, property liens, and account receivable garnishment instead.
+
+Can creditors garnish payments from my clients?
+
+Yes. Creditors can serve garnishment orders on your clients, directing them to pay the creditor instead of you. This is called account receivable garnishment.
+
+How do I protect my business bank account?
+
+Keep business and personal funds separate. If you operate as an LLC or corporation, business assets may have additional protection. Consult an attorney about asset protection strategies.
+
+Can I file bankruptcy and keep my business?
+
+Yes. Many self-employed individuals file bankruptcy and continue operating. Chapter 13 is often the best option for business owners who need to restructure debt while maintaining operations.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and consumer protection statutes. Educational content, not legal advice.
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener
+Open Bankruptcy Project
+Means Test
+Bank Levy Guide
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## IRS and State Tax Garnishment - Different Rules Apply
+Source: https://stopgarnishment.org/tax-garnishment.html
+
+IRS and State Tax Garnishment
+
+Tax agencies have broader garnishment powers than regular creditors - and different exemptions apply
+
+Home›IRS and State Tax Garnishment - Different Rules Apply | stopgarnishment.org›IRS and State Tax Garnishment
+
+← Home
+
+IRS Tax Levies Are Different
+
+The IRS does not need a court order to garnish your wages. Under the Internal Revenue Code, the IRS can issue a tax levy directly to your employer after sending you a Final Notice of Intent to Levy and a Notice of Your Right to a Hearing. This makes IRS garnishment faster and harder to challenge than regular creditor garnishment.
+
+IRS levies also do not follow the standard 25% limit. Instead, the IRS uses a formula based on your filing status and number of dependents that determines the exempt amount. The rest - often significantly more than 25% - can be taken. For high-income earners, IRS levies can take 70% or more of each paycheck.
+
+Stopping IRS Garnishment
+
+You have several options for stopping an IRS levy: negotiate an installment agreement (monthly payment plan), request currently not collectible status if you cannot afford basic living expenses, submit an offer in compromise (settling for less than the full amount), or file for bankruptcy.
+
+Filing bankruptcy stops IRS levies through the automatic stay, just like other garnishments. Chapter 13 can restructure tax debts over 3-5 years. Some older income taxes (more than 3 years old, filed more than 2 years ago, assessed more than 240 days ago) may even be dischargeable. For tax-specific information, see bankruptcytaxes.org.
+
+State Tax Garnishment
+
+State tax agencies also have enhanced collection powers, though they vary by state. Some states mirror the IRS process, while others require court orders. State tax liens and levies can affect your paycheck, bank accounts, and property.
+
+State taxes follow different rules for discharge in bankruptcy than federal taxes. Check with a bankruptcy attorney to determine whether your state tax debt qualifies for discharge.
+
+Student Loan Administrative Garnishment
+
+Federal student loan servicers can garnish up to 15% of disposable earnings through "administrative wage garnishment" without a court order, after providing notice and an opportunity for a hearing. This is a lower percentage than standard garnishment but is in addition to any existing garnishments for other debts.
+
+Private student loans must go through the regular court process for garnishment.
+
+Frequently Asked Questions
+
+Can the IRS garnish my wages without a court order?
+
+Yes. The IRS can issue a levy directly to your employer after sending required notices. They do not need a court judgment.
+
+How much can the IRS take from my paycheck?
+
+The IRS uses a formula based on filing status and dependents. The exempt amount can be as low as $200-300 per week, with the rest going to the IRS.
+
+Can bankruptcy stop IRS garnishment?
+
+Yes. Filing bankruptcy triggers the automatic stay, which stops IRS levies. Some older tax debts may even be dischargeable.
+
+Can student loans be garnished without a court order?
+
+Federal student loans can take up to 15% through administrative garnishment without a court order. Private student loans require a court judgment.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and consumer protection statutes. Educational content, not legal advice.
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Student Loan Forgiveness Programs -- studentloanforgive.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener
+Bankruptcy & Taxes
+Open Bankruptcy Project
+Automatic Stay
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## Privacy Policy - stopgarnishment.org
+Source: https://stopgarnishment.org/privacy.html
+
+stopgarnishment.org
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
+
 ---
 
 ## Additional FAQ Pages
 
 
-### Does filing bankruptcy stop wage garnishment? -- Stop Wage Garnishment
+### Does filing bankruptcy stop wage garnishment? - Stop Wage Garnishment
 Source: https://stopgarnishment.org/paa/does-filing-bankruptcy-stop-wage-garnishment.html
 
 Skip to content
@@ -356,7 +1123,7 @@ A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination p
 
 Privacy | Terms
 
-### How do I stop wage garnishment immediately? -- Stop Wage Garnishment
+### How do I stop wage garnishment immediately? - Stop Wage Garnishment
 Source: https://stopgarnishment.org/paa/how-do-i-stop-wage-garnishment-immediately.html
 
 Skip to content
@@ -404,6 +1171,10 @@ Bankruptcy And Garnishment
 
 How Garnishment Works
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
@@ -418,7 +1189,7 @@ A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination p
 
 Privacy | Terms
 
-### Common Questions -- Stop Wage Garnishment
+### Common Questions - Stop Wage Garnishment
 Source: https://stopgarnishment.org/paa/index.html
 
 stopgarnishment.org
@@ -436,6 +1207,24 @@ Does filing bankruptcy stop wage garnishment?
 
 What income is exempt from garnishment?
 
+Understanding Your Bankruptcy Options
+
+Bankruptcy law provides several paths to financial relief, each designed for different situations. Chapter 7 offers a fresh start through liquidation of non-exempt assets and discharge of qualifying debts, typically completed in 3 to 6 months. Chapter 13 allows you to keep your property while repaying debts over 3 to 5 years. Chapter 11 provides reorganization options for businesses and high-debt individuals. Understanding which chapter fits your situation requires analyzing your income, assets, debts, and financial goals.
+
+Frequently Asked Questions
+
+What are the different types of bankruptcy?
+
+The most common types are Chapter 7 (liquidation for individuals and businesses), Chapter 13 (repayment plan for individuals with regular income), and Chapter 11 (reorganization for businesses). Each chapter has different eligibility requirements, timelines, and outcomes. A bankruptcy attorney or legal aid organization can help determine which option fits your situation.
+
+How much does it cost to file bankruptcy?
+
+Court filing fees are $338 for Chapter 7 and $313 for Chapter 13 as of 2026. Attorney fees vary by location and complexity but typically range from $1,000 to $2,500 for Chapter 7 and $2,500 to $5,000 for Chapter 13. Fee waivers are available for filers below 150% of the federal poverty guidelines.
+
+Will bankruptcy stop creditor calls and lawsuits?
+
+Yes. The automatic stay under 11 U.S.C. Section 362 takes effect immediately when you file and stops most collection activities, including phone calls, letters, lawsuits, wage garnishments, and foreclosure or repossession actions. Creditors who violate the stay can be held in contempt of court.
+
 Part of the Bankruptcy Transparency Network
 
 1328f.com
@@ -443,7 +1232,7 @@ openbankruptcyproject.org
 
 Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
 
-### What income is exempt from garnishment? -- Stop Wage Garnishment
+### What income is exempt from garnishment? - Stop Wage Garnishment
 Source: https://stopgarnishment.org/paa/what-income-is-exempt-from-garnishment.html
 
 Skip to content
@@ -497,7 +1286,7 @@ When exempt benefits are deposited into a bank account, the bank must automatica
 
 Exceptions: What CAN Garnish Exempt Income
 
-Federal benefits can be garnished for federal taxes (IRS), federal student loans, child support, and alimony. These exceptions are significant -- they mean that while private creditors cannot touch your Social Security, the government and family support obligations can.
+Federal benefits can be garnished for federal taxes (IRS), federal student loans, child support, and alimony. These exceptions are significant - they mean that while private creditors cannot touch your Social Security, the government and family support obligations can.
 
 Related Guides
 
@@ -506,6 +1295,10 @@ Exempt Income
 How Garnishment Works
 
 Federal Limits
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
 
 Part of the Bankruptcy Transparency Network
 

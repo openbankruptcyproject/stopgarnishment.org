@@ -1,11 +1,20 @@
-# Stop Wage Garnishment -- Bankruptcy & Legal Options [2026]
+# Stop Wage Garnishment - Bankruptcy & Legal Options [2026]
 > How to stop wage garnishment fast using bankruptcy, exemptions, or negotiation. Federal and state rules explained. 2026 guide.
 
 ## About
 stopgarnishment.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Stop Wage Garnishment -- Bankruptcy & Legal Options: https://stopgarnishment.org/
+- Bank Account Levies vs. Wage Garnishment: https://stopgarnishment.org/bank-levy.html
+- Bankruptcy Stops Garnishment - How the Automatic Stay Works: https://stopgarnishment.org/bankruptcy-and-garnishment.html
+- Your Rights at Work During Garnishment: https://stopgarnishment.org/employer-rights.html
+- Income Protected from Garnishment - Federal and State Exemptions: https://stopgarnishment.org/exempt-income.html
+- Federal Garnishment Limits - How Much Can They Take: https://stopgarnishment.org/federal-limits.html
+- How Wage Garnishment Works - The Complete Process: https://stopgarnishment.org/how-garnishment-works.html
+- Stop Wage Garnishment - Bankruptcy & Legal Options: https://stopgarnishment.org/
+- Garnishment for Self-Employed and Gig Workers: https://stopgarnishment.org/self-employed.html
+- IRS and State Tax Garnishment - Different Rules Apply: https://stopgarnishment.org/tax-garnishment.html
+- Privacy Policy: https://stopgarnishment.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
