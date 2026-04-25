@@ -14,19 +14,19 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer-when-downgrade">
-<title>What income is exempt from garnishment? - Stop Wage Garnishment</title>
-<meta name="description" content="Income exempt from garnishment includes Social Security benefits, SSI, VA disability and pension benefits, federal employee retirement, and ...">
-<link rel="canonical" href="https://stopgarnishment.org/paa/what-income-is-exempt-from-garnishment.html">
+<title>Does filing bankruptcy stop wage garnishment? - Stop Wage Garnishment</title>
+<meta name="description" content="Yes. Filing bankruptcy immediately triggers the automatic stay, which stops all wage garnishments. The garnishment must stop within one pay ...">
+<link rel="canonical" href="https://stopgarnishment.org/paa/does-filing-bankruptcy-stop-wage-garnishment.html">
 
-<meta property="og:title" content="What income is exempt from garnishment? - Stop Wage Garnishment">
-<meta property="og:description" content="Income exempt from garnishment includes Social Security benefits, SSI, VA disability and pension benefits, federal employee retirement, and ...">
+<meta property="og:title" content="Does filing bankruptcy stop wage garnishment? - Stop Wage Garnishment">
+<meta property="og:description" content="Yes. Filing bankruptcy immediately triggers the automatic stay, which stops all wage garnishments. The garnishment must stop within one pay ...">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://stopgarnishment.org/paa/what-income-is-exempt-from-garnishment.html">
+<meta property="og:url" content="https://stopgarnishment.org/paa/does-filing-bankruptcy-stop-wage-garnishment.html">
 <meta property="og:site_name" content="stopgarnishment.org">
 <meta property="og:image" content="https://openbankruptcyproject.org/og-default.svg">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="What income is exempt from garnishment? - Stop Wage Garnishment">
-<meta name="twitter:description" content="Income exempt from garnishment includes Social Security benefits, SSI, VA disability and pension benefits, federal employee retirement, and ...">
+<meta name="twitter:title" content="Does filing bankruptcy stop wage garnishment? - Stop Wage Garnishment">
+<meta name="twitter:description" content="Yes. Filing bankruptcy immediately triggers the automatic stay, which stops all wage garnishments. The garnishment must stop within one pay ...">
 <meta name="twitter:image" content="https://openbankruptcyproject.org/og-default.svg">
 
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
@@ -39,10 +39,10 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What income is exempt from garnishment?",
+      "name": "Does filing bankruptcy stop wage garnishment?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Income exempt from garnishment includes Social Security benefits, SSI, VA disability and pension benefits, federal employee retirement, and Railroad Retirement benefits. Many states also protect workers' compensation, unemployment benefits, and public assistance. These exemptions apply automatically to direct deposits for 2 months after deposit."
+        "text": "Yes. Filing bankruptcy immediately triggers the automatic stay, which stops all wage garnishments. The garnishment must stop within one pay period of the creditor and employer receiving notice. In some cases, garnished funds not yet distributed to the creditor can be recovered and returned to you."
       }
     }
   ]
@@ -98,27 +98,6 @@ a:focus-visible,button:focus-visible{outline:2px solid #60a5fa;outline-offset:2p
   .snippet{padding:16px 18px;font-size:15px}
 }
 </style>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
@@ -131,65 +110,53 @@ a:focus-visible,button:focus-visible{outline:2px solid #60a5fa;outline-offset:2p
 </nav>
 
 <div class="breadcrumb">
-  <a href="/">Home</a> &rsaquo; <a href="/paa/">Common Questions</a> &rsaquo; What income is exempt from garnishment?
+  <a href="/">Home</a> &rsaquo; <a href="/paa/">Common Questions</a> &rsaquo; Does filing bankruptcy stop wage garnishment?
 </div>
 
 <main id="main">
 <div class="hero">
   <span class="badge">People Also Ask</span>
-  <h1>What income is exempt from garnishment?</h1>
+  <h1>Does filing bankruptcy stop wage garnishment?</h1>
 </div>
 
 <div class="content">
   <div class="snippet">
-    Income exempt from garnishment includes Social Security benefits, SSI, VA disability and pension benefits, federal employee retirement, and Railroad Retirement benefits. Many states also protect workers' compensation, unemployment benefits, and public assistance. These <a href="https://bankruptcyexemptionsbystate.com/" title="exemptions">exemptions</a> apply automatically to direct deposits for 2 months after deposit.
+    Yes. Filing bankruptcy immediately triggers the <a href="https://automaticstay.org/" title="automatic stay">automatic stay</a>, which stops all wage garnishments. The garnishment must stop within one pay period of the creditor and employer receiving notice. In some cases, garnished funds not yet distributed to the creditor can be recovered and returned to you.
   </div>
 
   <div class="section">
-<p>Federal and state laws protect certain income sources from garnishment by private creditors. Knowing your <a href="https://bankruptcyexemptionsbystate.com/" title="exemptions">exemptions</a> is critical.</p>
+<p>The <a href="https://automaticstay.org/" title="automatic stay">automatic stay</a> is the most powerful tool for stopping garnishment, and it works immediately upon filing.</p>
 
-<h2>Federally Protected Income</h2>
-<ul>
-<li><strong>Social Security:</strong> Retirement, disability (SSDI), and survivor benefits are exempt from garnishment by private creditors under 42 U.S.C. Section 407</li>
-<li><strong>Supplemental Security Income (SSI):</strong> Fully exempt</li>
-<li><strong>VA Benefits:</strong> Disability compensation, pension, and education benefits are exempt under 38 U.S.C. Section 5301</li>
-<li><strong>Federal Employee Retirement:</strong> Civil Service Retirement (CSRS) and Federal Employees Retirement System (FERS) benefits</li>
-<li><strong>Railroad Retirement:</strong> Benefits under the Railroad Retirement Act</li>
-<li><strong>Federal Emergency Management Agency (FEMA) benefits</strong></li>
-</ul>
+<h2>How It Works</h2>
+<ol>
+<li>You file your bankruptcy petition with the court</li>
+<li>The automatic stay takes effect immediately under 11 U.S.C. Section 362(a)</li>
+<li>Notice is sent to your employer and the garnishing creditor</li>
+<li>The employer must stop withholding garnishment amounts</li>
+<li>The creditor must stop all collection activity</li>
+</ol>
 
-<h2>State-Protected Income</h2>
-<p>Most states also protect:</p>
-<ul>
-<li>Workers' compensation benefits</li>
-<li>Unemployment insurance benefits</li>
-<li>Public assistance / welfare payments</li>
-<li>State disability benefits</li>
-<li>Certain pension and retirement benefits</li>
-</ul>
+<h2>Recovering Garnished Funds</h2>
+<p>Funds garnished within 90 days before your bankruptcy filing may be recoverable as a "preference" under Section 547. If the garnished amount exceeds $600, the <a href="https://bankruptcytrustee.org/" title="trustee">bankruptcy trustee</a> can demand the money back from the creditor. In practice, this works best for larger amounts, as trustees may not pursue recovery for small preference claims.</p>
 
-<h2>The Bank Account Protection Rule</h2>
-<p>When exempt benefits are deposited into a bank account, the bank must automatically protect 2 months' worth of benefits from garnishment. This means if your Social Security direct deposit is $2,000/month, the first $4,000 in your account is protected without you having to do anything. This protection applies to federal benefit direct deposits.</p>
+<h2>Chapter 7 vs. Chapter 13 for Garnishment</h2>
+<p>Both chapters stop garnishment immediately. <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> eliminates the underlying debt entirely (for dischargeable debts) in 3-4 months, permanently ending any basis for garnishment. <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> replaces the garnishment with a structured <a href="https://chapter13plan.org/" title="Chapter 13 plan">repayment plan</a> over 3-5 years at an amount based on your actual disposable income.</p>
 
-<h2>Exceptions: What CAN Garnish Exempt Income</h2>
-<p>Federal benefits can be garnished for federal taxes (IRS), federal <a href="https://bankruptcystudentloans.org/" title="student loans">student loans</a>, child support, and alimony. These exceptions are significant - they mean that while private creditors cannot touch your Social Security, the government and family support obligations can.</p>
+<h2>Non-Dischargeable Garnishments</h2>
+<p>Garnishment for child support and alimony is not stopped by the automatic stay in most circumstances. Tax garnishment may be temporarily stayed but the underlying tax debt may not be dischargeable. <a href="https://bankruptcystudentloans.org/" title="student loans">Student loan</a> garnishment is stopped by the stay, but the debt requires an adversary proceeding to <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>.</p>
   </div>
 
 <div class="section">
 <h2>Related Guides</h2>
 <ul>
-    <li><a href="/exempt-income.html">Exempt Income</a></li>    <li><a href="/how-garnishment-works.html">How Garnishment Works</a></li>    <li><a href="/federal-limits.html">Federal Limits</a></li>
+    <li><a href="/bankruptcy-and-garnishment.html">Bankruptcy And Garnishment</a></li>    <li><a href="/index.html">Index</a></li>    <li><a href="/exempt-income.html">Exempt Income</a></li>
 </ul>
 </div>
-</div>
-
-<div style="margin:1.5rem 0"><h2 style="color:#f0f6fc;font-size:1.1rem;margin-bottom:1rem">Related Resources</h2>
-    <a href="https://openbankruptcyproject.org/rule-9037/" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">Rule 9037 Compliance Guide</a>
 </div>
 </main>
 
 <footer class="network-footer" role="contentinfo">
-  <p><strong>Part of the Open Bankruptcy Project</strong></p>
+  <p><strong>Part of the Bankruptcy Transparency Network</strong></p>
   <p>Real information, no strings.</p>
   <div class="links">
     <a href="https://1328f.com?utm_source=stopgarnishment.org&utm_medium=referral&utm_campaign=btn-network">1328f.com</a>
@@ -197,7 +164,7 @@ a:focus-visible,button:focus-visible{outline:2px solid #60a5fa;outline-offset:2p
     <a href="https://openbankruptcyproject.org?utm_source=stopgarnishment.org&utm_medium=referral&utm_campaign=btn-network">openbankruptcyproject.org</a>
     <a href="https://github.com/sponsors/openbankruptcyproject" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s" onmouseover="this.style.background='#9e2c6f'" onmouseout="this.style.background='#bf3989'">&#9829; Sponsor</a>
   </div>
-  <p class="disclaimer">Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) public charity (EIN 41-5159631).</p>
+  <p class="disclaimer">Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
   <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=stopgarnishment.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=stopgarnishment.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a></p>
 </footer>
 
